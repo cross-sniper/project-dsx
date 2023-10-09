@@ -1,2 +1,2 @@
 # project-dsx
-this is a simple emulator, or something
+this is a simple x86-like emulator, or something
